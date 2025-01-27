@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e23fc16baafb44880b2723db7d5f2b, type: 3}
+  m_Name: Music
+  m_EditorClassIdentifier: 
+  Flame: {fileID: 8300000, guid: 20756699663faae4996dafea34464a3a, type: 3}
+  Birds: {fileID: 8300000, guid: 8154b346e53ae2b4b94e8b1452d880b2, type: 3}
+  Wind: {fileID: 8300000, guid: a094cae24fc0e0e4b8a5a73e590ff8fe, type: 3}
+  Mine: {fileID: 8300000, guid: 31218c8046b78084d9f0382b4fe9518d, type: 3}
+  MineBoss: {fileID: 8300000, guid: 1129585eda7e5504aacf2e4751f70de8, type: 3}
+  Village: {fileID: 8300000, guid: 567cfed29a18275438ce09208e207eac, type: 3}

@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:1cf1cd4bfeddcf855c6438ab8cc2b2c1:9d1504740e758b9b573ad6daecdd2f15:31168736dd9470145de19bf6bfe84609$
+#
+:format=40300
+:texture=RateUs2.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+1-2;0;256;256;256; 0.5;0.5; 0;0;0;0
+3;0;0;256;256; 0.5;0.5; 0;0;0;0
+4;256;256;256;256; 0.5;0.5; 0;0;0;0
+5;256;0;256;256; 0.5;0.5; 0;0;0;0

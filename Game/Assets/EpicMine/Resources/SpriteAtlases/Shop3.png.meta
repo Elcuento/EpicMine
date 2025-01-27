@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: 880c7c26ad4b9bb4fab3d336db2234a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: "2\u0445-\u043F\u0435\u0440\u0435\u043F\u043B\u0430\u0432\u043A\u0430-1"
+  - first:
+      213: 21300002
+    second: "2\u0445-\u043F\u0435\u0440\u0435\u043F\u043B\u0430\u0432\u043A\u0430-2"
+  - first:
+      213: 21300004
+    second: "2\u0445-\u043F\u0435\u0440\u0435\u043F\u043B\u0430\u0432\u043A\u0430-3"
+  - first:
+      213: 21300006
+    second: Cryslal
+  - first:
+      213: 21300008
+    second: Gold
+  - first:
+      213: 21300010
+    second: Gold_top
+  - first:
+      213: 21300012
+    second: hilt1
+  - first:
+      213: 21300014
+    second: hilt2
+  - first:
+      213: 21300016
+    second: hilt3
+  - first:
+      213: 21300018
+    second: "\u0417\u0435\u043B\u0451\u043D\u0430\u044F-\u0437\u0432\u0435\u0437\u0434\u0430"
+  - first:
+      213: 21300020
+    second: "\u0417\u043E\u043B\u043E\u0442\u0430\u044F-\u043F\u043B\u0430\u0448\u043A\u0430"
+  - first:
+      213: 21300022
+    second: "\u0418\u043A\u043E\u043D\u043A\u0430-\u0441\u043F\u0435\u0446\u043F\u0440\u0435\u0434\u043B\u043E\u0436\u0435\u043D\u0438\u044F"
+  - first:
+      213: 21300024
+    second: "\u041F\u043B\u0430\u0448\u043A\u04301"
+  - first:
+      213: 21300026
+    second: "\u041F\u043B\u0430\u0448\u043A\u04302"
+  - first:
+      213: 21300028
+    second: "\u041F\u043B\u0430\u0448\u043A\u04303"
+  - first:
+      213: 21300030
+    second: "\u041F\u043E\u043B\u043E\u0441\u043A\u0430-\u043F\u043E\u0434-\u0442\u0430\u0439\u043C\u0435\u0440-\u043D\u0430-\u0432\u043A\u043B\u0430\u0434\u043A\u0435-\u0417\u043E\u043B\u043E\u0442\u043E"
+  - first:
+      213: 21300032
+    second: "\u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C-\u043F\u0435\u0440\u0435\u043F\u043B\u0430\u0432\u043A\u0438-2\u0445"
+  - first:
+      213: 21300034
+    second: "\u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C-\u043F\u0435\u0440\u0435\u043F\u043B\u0430\u0432\u043A\u0438-5\u0445"
+  - first:
+      213: 21300036
+    second: "\u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C-\u043F\u0435\u0440\u0435\u043F\u043B\u0430\u0432\u043A\u0438-10\u0445"
+  - first:
+      213: 21300038
+    second: shop_pack_hilt_1
+  - first:
+      213: 21300040
+    second: shop_pack_hilt_2
+  - first:
+      213: 21300042
+    second: shop_pack_hilt_3
+  - first:
+      213: 21300044
+    second: shop_pack_resource_booster_1
+  - first:
+      213: 21300046
+    second: shop_pack_resource_booster_2
+  - first:
+      213: 21300048
+    second: shop_pack_resource_booster_3
+  - first:
+      213: 21300050
+    second: shop_pack_workshop_booster_1
+  - first:
+      213: 21300052
+    second: shop_pack_workshop_booster_2
+  - first:
+      213: 21300054
+    second: shop_pack_workshop_booster_3
+  - first:
+      213: 21300056
+    second: shop_pack_alchemy
+  - first:
+      213: 21300058
+    second: shop_pack_dragon
+  - first:
+      213: 21300060
+    second: shop_pack_miner
+  - first:
+      213: 21300062
+    second: gold_lent
+  - first:
+      213: 21300064
+    second: gold_star_lent
+  - first:
+      213: 21300066
+    second: special_offer_icon
+  - first:
+      213: 21300068
+    second: timer_underline
+  - first:
+      213: 21300070
+    second: golden_star
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cryslal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 1440
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2207f52350a7ed4da6cf15eeeebac21
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 1440
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd40d4b3b6b1928458e35c151eeb01c4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_lent
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 200
+        width: 417
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 200, y: 50, z: 200, w: 60}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b394ee87eeb12a6469230b6cff934ee6
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_star_lent
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 310
+        width: 417
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52c09efcb551fc4a8f4283ce7342605
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 349
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b1458825d2d84e887799e2968d042
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden_star
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 512
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ada21198df0514479de5b9d5578944e
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_alchemy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 522
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eddec2e29f49b04498e9ed0fdd70821
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_dragon
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 798
+        width: 522
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8d2d1ee6feb3f43abb36f9890b0379
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_hilt_1
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8b116f237b48f44883340b5b9e1ea6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_hilt_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 54
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbd922b22454ea40a6bd832c21060d7
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_hilt_3
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f609550d4fa4edc45af1526f8299c408
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_miner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 522
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc06a1fae3f2e443acc4975572f6f08
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_resource_booster_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 435
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72adafa0749ee2428ab48261955c57c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_resource_booster_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 435
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24abc2241abb9b4a88f30109c17ed13
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_resource_booster_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 594
+        width: 435
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7071ec1883b5129428834b51efb8b6cb
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_workshop_booster_1
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 760
+        width: 376
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b15aba15d96347affab3475ee60ed
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_workshop_booster_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 340
+        width: 376
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c7de76cdcb6ea45ac640fca23295a6
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_workshop_booster_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 512
+        width: 376
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e617e042cefa9d419afccd5d7a1577f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: special_offer_icon
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 760
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4070f1892f6f7924386919deeddb12e0
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timer_underline
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 310
+        width: 202
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8fa396ffc78d146982c6145ed25912
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6ce74043a58a5184b9d74301bca795a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shop_pack_hilt_1: 21300038
+      shop_pack_alchemy: 21300056
+      Gold_top: 21300010
+      shop_pack_workshop_booster_3: 21300054
+      shop_pack_hilt_2: 21300040
+      shop_pack_workshop_booster_1: 21300050
+      shop_pack_workshop_booster_2: 21300052
+      shop_pack_resource_booster_2: 21300046
+      shop_pack_hilt_3: 21300042
+      gold_star_lent: 21300064
+      timer_underline: 21300068
+      gold_lent: 21300062
+      Gold: 21300008
+      Cryslal: 21300006
+      shop_pack_resource_booster_3: 21300048
+      golden_star: 21300070
+      shop_pack_miner: 21300060
+      shop_pack_resource_booster_1: 21300044
+      special_offer_icon: 21300066
+      shop_pack_dragon: 21300058
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

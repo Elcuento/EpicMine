@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:bb0693c8c39752568567df3115af5931:84382d7a5a99dd38c0d46d7b2761ab99:ed9e9fb18afaaecca885b31d1e72e06a$
+#
+:format=40300
+:texture=Chests.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+RoyalClosed;2;710;476;312; 0.5;0.5; 0;0;0;0
+RoyalOpenedBottom;482;841;476;181; 0.5;0.5; 0;0;0;0
+RoyalOpenedTop;482;526;452;311; 0.5;0.5; 0;0;0;0
+SimpleClosed;2;419;448;287; 0.5;0.5; 0;0;0;0
+SimpleOpenedBottom;454;341;448;181; 0.5;0.5; 0;0;0;0
+SimpleOpenedTop;2;132;421;283; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: 7dabc0889fb72854b91b3d401a2503ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: AttackLine
+  - first:
+      213: 21300002
+    second: AttackPointInner
+  - first:
+      213: 21300004
+    second: AttackPointOuter
+  - first:
+      213: 21300006
+    second: BossEyes1
+  - first:
+      213: 21300008
+    second: BossEyes2
+  - first:
+      213: 21300010
+    second: BossEyes3
+  - first:
+      213: 21300012
+    second: point_hit_exact_00000
+  - first:
+      213: 21300014
+    second: point_hit_exact_00001
+  - first:
+      213: 21300016
+    second: point_hit_exact_00002
+  - first:
+      213: 21300018
+    second: point_hit_exact_00003
+  - first:
+      213: 21300020
+    second: point_hit_exact_00004
+  - first:
+      213: 21300022
+    second: point_hit_exact_00005
+  - first:
+      213: 21300024
+    second: point_hit_exact_00006
+  - first:
+      213: 21300026
+    second: point_hit_exact_00007
+  - first:
+      213: 21300028
+    second: point_hit_exact_00008
+  - first:
+      213: 21300030
+    second: point_hit_exact_00009
+  - first:
+      213: 21300032
+    second: point_hit_exact_00010
+  - first:
+      213: 21300034
+    second: point_hit_exact_00011
+  - first:
+      213: 21300036
+    second: point_hit_exact_00012
+  - first:
+      213: 21300038
+    second: point_hit_exact_red_00000
+  - first:
+      213: 21300040
+    second: point_hit_exact_red_00001
+  - first:
+      213: 21300042
+    second: point_hit_exact_red_00002
+  - first:
+      213: 21300044
+    second: point_hit_exact_red_00003
+  - first:
+      213: 21300046
+    second: point_hit_exact_red_00004
+  - first:
+      213: 21300048
+    second: point_hit_exact_red_00005
+  - first:
+      213: 21300050
+    second: point_hit_exact_red_00006
+  - first:
+      213: 21300052
+    second: point_hit_exact_red_00007
+  - first:
+      213: 21300054
+    second: point_hit_exact_red_00008
+  - first:
+      213: 21300056
+    second: point_hit_exact_red_00009
+  - first:
+      213: 21300058
+    second: point_hit_exact_red_00010
+  - first:
+      213: 21300060
+    second: point_hit_exact_red_00011
+  - first:
+      213: 21300062
+    second: point_hit_exact_red_00012
+  - first:
+      213: 21300064
+    second: point_hit_exact_yellow_00000
+  - first:
+      213: 21300066
+    second: point_hit_exact_yellow_00001
+  - first:
+      213: 21300068
+    second: point_hit_exact_yellow_00002
+  - first:
+      213: 21300070
+    second: point_hit_exact_yellow_00003
+  - first:
+      213: 21300072
+    second: point_hit_exact_yellow_00004
+  - first:
+      213: 21300074
+    second: point_hit_exact_yellow_00005
+  - first:
+      213: 21300076
+    second: point_hit_exact_yellow_00006
+  - first:
+      213: 21300078
+    second: point_hit_exact_yellow_00007
+  - first:
+      213: 21300080
+    second: point_hit_exact_yellow_00008
+  - first:
+      213: 21300082
+    second: point_hit_exact_yellow_00009
+  - first:
+      213: 21300084
+    second: point_hit_exact_yellow_00010
+  - first:
+      213: 21300086
+    second: point_hit_exact_yellow_00011
+  - first:
+      213: 21300088
+    second: point_hit_exact_yellow_00012
+  - first:
+      213: 21300090
+    second: IncreaseDamage1
+  - first:
+      213: 21300092
+    second: IncreaseDamage2
+  - first:
+      213: 21300094
+    second: IncreaseDamage3
+  - first:
+      213: 21300096
+    second: InstantDamage1
+  - first:
+      213: 21300098
+    second: InstantDamage2
+  - first:
+      213: 21300100
+    second: InstantDamage3
+  - first:
+      213: 21300102
+    second: TickingDamage1
+  - first:
+      213: 21300104
+    second: TickingDamage2
+  - first:
+      213: 21300106
+    second: TickingDamage3
+  - first:
+      213: 21300108
+    second: TickingDamage4
+  - first:
+      213: 21300110
+    second: Combo2
+  - first:
+      213: 21300112
+    second: Combo3
+  - first:
+      213: 21300114
+    second: Combo4
+  - first:
+      213: 21300116
+    second: Combo5
+  - first:
+      213: 21300118
+    second: hit
+  - first:
+      213: 21300120
+    second: MonsterAttackPoint1
+  - first:
+      213: 21300122
+    second: MonsterAttackPoint2
+  - first:
+      213: 21300124
+    second: MonsterAttackPoint3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackLine
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 986
+        width: 1024
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2293109d80f5dd3498d84af6faab082b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPointInner
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 8
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b72d2139d8f4b4aaea0e76fbaedf8b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPointOuter
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 554
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f835d757684b3a34da8ee34fa09281e8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEyes1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 282
+        width: 5
+        height: 3
+      alignment: 9
+      pivot: {x: 0.4, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5b1c3393351cb489aa3ebdb3222326
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEyes2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 287
+        width: 11
+        height: 7
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db4ed00edfe2944b861b09288cf279c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossEyes3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 742
+        width: 59
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33a19474aec8ac40a70029f5b39ff77
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseDamage1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84261f2b05448fa44b44d2c4f48238cc
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseDamage2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41cdfdeab85e2c48b71581bd3c6a16d
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncreaseDamage3
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 4
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf23ed18dba91b64b957e496f2309ba3
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InstantDamage1
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 311
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.58536583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc34e6f0858f8644ad026167a623ed7
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InstantDamage2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 301
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89973091752aa1439a094091dc2a422
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InstantDamage3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 37
+        height: 36
+      alignment: 9
+      pivot: {x: 0.45945945, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf77fad87bad3046ab13b5fd6900adb
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterAttackPoint1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 462
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38582dde0e807e047906b9294ef5ab01
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterAttackPoint2
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 802
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aa36d6e0606554aa329f43ac38b6c0
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterAttackPoint3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 38
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1aa82c6e13ab64b80480cb072e8f65
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00000
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 12
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f87f814b9c2ac14e94984873abf00ef
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00001
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 480
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77597013859cd84488578aa0be42fead
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00002
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 302
+        width: 101
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5049505, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310fd183d4c9834fb06bd3c3684507a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00003
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 69
+        width: 119
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5042017, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac745866f68f19f45a8bd67eb14a79c4
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 131
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47780d4294d3c244986fd9d7199884a5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00005
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 670
+        width: 138
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f585e0349682a7b43ade9326b0a8a0f6
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00006
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 296
+        width: 142
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4002508b8393ccb41bd9e210a494acbf
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 144
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b45cb5dae774b41b2d57b7ac84dbf4
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00008
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 282
+        width: 26
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51eb3649ef80084d9015d3428723dba
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00009
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 282
+        width: 26
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df45a8410278b446987b10ab39885bb
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00010
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 282
+        width: 26
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec277c0f00a444582c810bd97506af
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00011
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 810
+        width: 26
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277a112dcdc67a641a16ab54f2b20abd
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_00012
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 634
+        width: 26
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63d6b7d1c6a1884b83976120f1ded80
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00000
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 12
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabfd07d81815624bb7ae22957ead204
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00001
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 76
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650c0d71208d3fe4a92b5fd4b96cf71d
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00002
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 306
+        width: 101
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5049505, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68878b14b459aba43809cd1068c79a0e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00003
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 570
+        width: 119
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5042017, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995fae355dd093e4aa1a100a52086b90
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00004
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 131
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff48199811798847b744b45c2e046a5
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00005
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 354
+        width: 138
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66255f1d9f7bdb840bbd4382f975ebde
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00006
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 648
+        width: 142
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44116091b340ef49ad1e04300e9610d
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 144
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6e287feded5cc46bd4a268dee96d90
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00008
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 282
+        width: 26
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd68d8a0be5fc14d94ed3556925f9a0
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00009
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 282
+        width: 26
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62deb5bdceaa52f4aa22b1ca4667669c
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00010
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 282
+        width: 26
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085380c116d2ef74097be5156d9eafb4
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00011
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 810
+        width: 26
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74f9a47a81d184592cad22c169ef37
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_red_00012
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 634
+        width: 26
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eabf8060637e9b4b81714619ce651f0
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00000
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 12
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51be046831df41743ae692758c9929b1
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00001
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7043e8142369d9f41a79f74afcb57e1c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00002
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 150
+        width: 101
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5049505, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28aa134d13ba1499ee685d6c6c0b0c
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00003
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 70
+        width: 119
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5042017, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06dc4f12c550214e918b13740a0b8f6
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00004
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 131
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0338c76eebc335c419dff943907566ac
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00005
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 670
+        width: 138
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233bdb4c7fac4ff46b5fb6b4dbf6da87
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00006
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 310
+        width: 142
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c7cef7b1a93724abe144f988d93561
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00007
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 634
+        width: 144
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c747e01ca06234e816c2c8d17e887d
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00008
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 634
+        width: 26
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d8656c7919ab9418c6bd60b58b83d1
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00009
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 282
+        width: 26
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973a95b41fc236d439d7851e9ee5f4be
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00010
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 634
+        width: 26
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acb50551c1ecad4aa560b4f1f347cf2
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00011
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 458
+        width: 26
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54903180f75f6ce4f9d07e9a0288f073
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: point_hit_exact_yellow_00012
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 378
+        width: 26
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4f143aabfa7174085c314e4072a96b
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TickingDamage1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 16
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e074ab21d00ab4d85821dcbe17e223
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TickingDamage2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 315
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ae9f7826b55344d9455967de1f6173
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TickingDamage3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 10
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11a09faa66d5e445b79df82b6a1a320
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TickingDamage4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 9
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8513e0654f0991429f496e2e68942a0
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9fbab378a21067648ae4f823a602f26b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MonsterAttackPoint3: 21300124
+      point_hit_exact_00008: 21300028
+      IncreaseDamage1: 21300090
+      point_hit_exact_00011: 21300034
+      point_hit_exact_yellow_00000: 21300064
+      TickingDamage1: 21300102
+      InstantDamage3: 21300100
+      InstantDamage1: 21300096
+      point_hit_exact_00010: 21300032
+      point_hit_exact_00004: 21300020
+      point_hit_exact_yellow_00001: 21300066
+      point_hit_exact_00000: 21300012
+      point_hit_exact_yellow_00007: 21300078
+      point_hit_exact_red_00011: 21300060
+      point_hit_exact_yellow_00006: 21300076
+      point_hit_exact_yellow_00003: 21300070
+      point_hit_exact_yellow_00011: 21300086
+      point_hit_exact_red_00002: 21300042
+      BossEyes3: 21300010
+      point_hit_exact_red_00001: 21300040
+      TickingDamage3: 21300106
+      point_hit_exact_yellow_00004: 21300072
+      point_hit_exact_yellow_00002: 21300068
+      point_hit_exact_00003: 21300018
+      point_hit_exact_red_00006: 21300050
+      point_hit_exact_yellow_00009: 21300082
+      AttackPointInner: 21300002
+      AttackLine: 21300000
+      TickingDamage2: 21300104
+      point_hit_exact_00012: 21300036
+      AttackPointOuter: 21300004
+      point_hit_exact_red_00008: 21300054
+      point_hit_exact_yellow_00010: 21300084
+      point_hit_exact_red_00005: 21300048
+      point_hit_exact_red_00009: 21300056
+      point_hit_exact_00009: 21300030
+      IncreaseDamage2: 21300092
+      point_hit_exact_red_00004: 21300046
+      point_hit_exact_00006: 21300024
+      point_hit_exact_00002: 21300016
+      point_hit_exact_yellow_00005: 21300074
+      point_hit_exact_yellow_00008: 21300080
+      point_hit_exact_00001: 21300014
+      IncreaseDamage3: 21300094
+      point_hit_exact_red_00012: 21300062
+      InstantDamage2: 21300098
+      point_hit_exact_00007: 21300026
+      BossEyes1: 21300006
+      BossEyes2: 21300008
+      point_hit_exact_red_00010: 21300058
+      point_hit_exact_yellow_00012: 21300088
+      point_hit_exact_00005: 21300022
+      point_hit_exact_red_00003: 21300044
+      MonsterAttackPoint2: 21300122
+      point_hit_exact_red_00000: 21300038
+      point_hit_exact_red_00007: 21300052
+      MonsterAttackPoint1: 21300120
+      TickingDamage4: 21300108
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

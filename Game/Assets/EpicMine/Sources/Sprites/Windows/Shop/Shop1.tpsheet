@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:08dde19afd6a8d6fd2ce006c76391281:df4042fe7779a41f1f37a5a62ae277d0:e13b29fcb4e343adc561ba1b338f0428$
+#
+:format=40300
+:texture=Shop1.png
+:size=276x276
+:pivotpoints=enabled
+:borders=disabled
+
+ChestBackground1;22;121;30;155; 0.5;0.5; 0;0;0;0
+ChestBackground2;54;121;30;155; 0.5;0.5; 0;0;0;0
+ChestBackground3;86;121;30;155; 0.5;0.5; 0;0;0;0
+CrystalsBackground;118;121;30;155; 0.5;0.5; 0;0;0;0
+GoldBackground;150;121;30;155; 0.5;0.5; 0;0;0;0
+PickaxesBackground;182;121;30;155; 0.5;0.5; 0;0;0;0
+PotionBackground;214;121;30;155; 0.5;0.5; 0;0;0;0
+ShopResourceBackground;0;6;20;270; 0.5;0.5; 0;0;0;0
+TntBackground;246;121;30;155; 0.5;0.5; 0;0;0;0

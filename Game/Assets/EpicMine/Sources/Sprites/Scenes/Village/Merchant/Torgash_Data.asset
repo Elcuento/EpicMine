@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: Torgash_Data
+  m_EditorClassIdentifier: 
+  dataName: Torgash
+  dragonBonesJSON: {fileID: 4900000, guid: 9cb787847f8792b428e9a4e3788aa636, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 733502eb9c5bf2d48a5ca9da35ce8b0d, type: 3}
+    texture: {fileID: 2800000, guid: c6e902b77ff151d4090c6e86c5315511, type: 3}
+    material: {fileID: 2100000, guid: 543cb692ba728294d96b99812f4196ec, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 18aa4700c39591d48b408fc946893e17, type: 2}

@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38516fee83cb25c4582bf86ff565b4ea, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  Birds: {fileID: 8300000, guid: 8154b346e53ae2b4b94e8b1452d880b2, type: 3}
+  Flame: {fileID: 8300000, guid: 20756699663faae4996dafea34464a3a, type: 3}
+  Wind: {fileID: 8300000, guid: a094cae24fc0e0e4b8a5a73e590ff8fe, type: 3}
+  Steps:
+  - {fileID: 8300000, guid: c9c1f4a7289ab774bb635284a355172f, type: 3}
+  - {fileID: 8300000, guid: 3857def9e21e49846afdbc4ca0cdbd80, type: 3}
+  - {fileID: 8300000, guid: ddc6fd4e27bcce248b6a0fbd36cc616a, type: 3}
+  - {fileID: 8300000, guid: ccffce7d83d1b874dbc90c515c896f3b, type: 3}
+  - {fileID: 8300000, guid: c4aa357dda9f3de4c87e09a84dd0fc85, type: 3}
+  Click: {fileID: 8300000, guid: c1359a17c66a51a48b0d2e1974507af1, type: 3}
+  OpenWindow: {fileID: 8300000, guid: d89d8c511490eaa4dbfa00c0838d8ebb, type: 3}
+  CloseWindow: {fileID: 8300000, guid: bd10938ca710df84db5c5560f3035cd6, type: 3}
+  Notification: {fileID: 8300000, guid: c395b8980997dc74db1d556e7f9ded93, type: 3}
+  Pay: {fileID: 8300000, guid: f39ca352bafa90d4b93f6ade5d0329e0, type: 3}
+  Sell: {fileID: 8300000, guid: 53230b9fc01c76b46b06827cf309ad5d, type: 3}
+  CrystalsIncome: {fileID: 8300000, guid: 1dda2cc26d423c04fa194a03fb25a016, type: 3}
+  CharacteristicUpgrade: {fileID: 8300000, guid: c9bac174d05a9a34182bb58a4f8e3594,
+    type: 3}
+  ChestFound: {fileID: 8300000, guid: 87aa58cc0e03f1642a19919d5d37edfe, type: 3}
+  OpenChest: {fileID: 8300000, guid: 5660019d2f54a354c84696b88050e9b5, type: 3}
+  StartBreakingChest: {fileID: 8300000, guid: 7f2c5aa9e91075444be89f60b33984db, type: 3}
+  GiftReady: {fileID: 8300000, guid: db2cd4faf36598f4796726e75736c5d9, type: 3}
+  OpenGift: {fileID: 8300000, guid: b0f5e246ff26c8140939930d5538572b, type: 3}
+  BlacksmithCharacterHammer: {fileID: 8300000, guid: 22d5ada4142f70d4f9c001f4cea2eb4d,
+    type: 3}
+  WorkshopSlotSetRecipe: {fileID: 8300000, guid: 578ff623d0e7eec49a1983162fcef4a3,
+    type: 3}
+  Tnts:
+  - {fileID: 8300000, guid: 86754d9c5eaa6764989dc6ac9659a301, type: 3}
+  - {fileID: 8300000, guid: 0ab90893839783e4496b0f15a453c564, type: 3}
+  - {fileID: 8300000, guid: 21929ca17c18f9b44979f38809398c93, type: 3}
+  Potion: {fileID: 8300000, guid: a1cb70b7bd43f1b418ca3e899c636a47, type: 3}
+  PickaxeCreate: {fileID: 8300000, guid: 00985e09732e6724cb58b0c231f537d1, type: 3}
+  PickaxeDestroyed: {fileID: 8300000, guid: 5fe0868526d684e418e194c5a3c014b8, type: 3}
+  PickaxeDestroyedWindow: {fileID: 8300000, guid: cff4b5934a88d214aa18d8d11acabace,
+    type: 3}
+  PickaxeOuterHits:
+  - {fileID: 8300000, guid: f61c2b6d14fc6be418c62f07f3257482, type: 3}
+  - {fileID: 8300000, guid: ee7348ec9d131d94d900f4a3aa970e6b, type: 3}
+  - {fileID: 8300000, guid: 03882ac276b3fb44cb2e7e7570816383, type: 3}
+  PickaxeInnerHit: {fileID: 8300000, guid: 86dfec3c21e486e4f940752ee5552cd6, type: 3}
+  PickaxeMisses:
+  - {fileID: 8300000, guid: 5c079de549a914347a38b384f9de8323, type: 3}
+  - {fileID: 8300000, guid: c91e869d96005ab4abb217e25b5a8771, type: 3}
+  - {fileID: 8300000, guid: 801a9a5647390ea4e9377263384162c5, type: 3}
+  PickaxeCrit: {fileID: 8300000, guid: 5b74cb899dd58f74f8d2d572dc888bb2, type: 3}
+  HealthAttackPointHit: {fileID: 8300000, guid: 707d17d71879b2d45b0c4eb798c9d7a5,
+    type: 3}
+  EnergyAttackPointHit: {fileID: 8300000, guid: 0667c676ec423c644aba2bcf2f2ae7d9,
+    type: 3}
+  WallDestroyed: {fileID: 8300000, guid: a79baf96ada455740b209be5c381f3c4, type: 3}
+  Door: {fileID: 8300000, guid: 3f072bed31732bf4496f25631cf7dff0, type: 3}
+  LastDoor: {fileID: 8300000, guid: 792abe1feb4556b49bdfcb804d78ffe0, type: 3}
+  MineComplete: {fileID: 8300000, guid: be4bb65ee0b7e92419ea6149e24ef6d8, type: 3}
+  MineBossHealing: {fileID: 8300000, guid: 9e46f769d5feab8429aaf20391f8bbe3, type: 3}
+  ShopSounds:
+  - {fileID: 8300000, guid: 88e16918c597d814aaaee80737d8b2b5, type: 3}
+  - {fileID: 8300000, guid: 4f0489db319b39e439ea87d50cf1f3c0, type: 3}
+  - {fileID: 8300000, guid: 1f4ad16761edb9349b59b2aaa4c5f47a, type: 3}
+  - {fileID: 8300000, guid: 7282ba8a101aba14fa33e870d46b6652, type: 3}
+  BlacksmithSounds:
+  - {fileID: 8300000, guid: 2d20888c1b3bb1d438813e9ae6777f05, type: 3}
+  - {fileID: 8300000, guid: fe553e46496d49c40bfb6e3751d29199, type: 3}
+  - {fileID: 8300000, guid: 2e18b331dd76c154195f807f7a0387bd, type: 3}
+  - {fileID: 8300000, guid: 997211a49d60ea745ab095d932a069e4, type: 3}
+  - {fileID: 8300000, guid: 08f112629b817ca4491902d5acf9a91f, type: 3}
+  InstantDamages:
+  - {fileID: 8300000, guid: 86754d9c5eaa6764989dc6ac9659a301, type: 3}
+  - {fileID: 8300000, guid: 0ab90893839783e4496b0f15a453c564, type: 3}
+  - {fileID: 8300000, guid: 21929ca17c18f9b44979f38809398c93, type: 3}
+  IncreaseDamages:
+  - {fileID: 8300000, guid: 82e56467ecce66e4a8d5543441e2a6de, type: 3}
+  - {fileID: 8300000, guid: 4f9564cb1a3384240861476797fc67dd, type: 3}
+  - {fileID: 8300000, guid: 10a084cee432ee547ab0c92941747913, type: 3}
+  TickingDamages:
+  - {fileID: 8300000, guid: f984d6136a987e14198376971bd67f13, type: 3}
+  - {fileID: 8300000, guid: 3331e26d4fdbbfe42b82877643fd2548, type: 3}
+  - {fileID: 8300000, guid: fbefdec5da8ce4c409a3af3169d3c1e2, type: 3}
+  DragonLightStart: {fileID: 8300000, guid: 5ccf8caa91e859d47a023b5e1f6cd451, type: 3}
+  DragonLightProgress: {fileID: 8300000, guid: a58c2df244eb0834bb478f7e5c354af0, type: 3}
+  QuestTaskGoalChanged: {fileID: 8300000, guid: 06e1ddcf7d2be3c49bb8d0a4de822e30,
+    type: 3}
+  QuestTaskCompleted: {fileID: 8300000, guid: 70c58ba43e13c2940b105f9519985a1f, type: 3}

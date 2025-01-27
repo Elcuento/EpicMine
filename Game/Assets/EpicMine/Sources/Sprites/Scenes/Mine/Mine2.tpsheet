@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:db3c87dbe46f429f7aa43f32c82d7d78:99cd22b3259d9d709c922609fa782948:feb5d134c03e9d7639456d9a11fe0454$
+#
+:format=40300
+:texture=Mine2.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+Combo2;0;361;110;151; 0.5;0.5; 0;0;0;0
+Combo3;0;208;110;151; 0.5;0.5; 0;0;0;0
+Combo4;0;55;110;151; 0.5;0.5; 0;0;0;0
+Combo5;260;361;110;151; 0.5;0.5; 0;0;0;0
+Combo6;372;361;110;151; 0.5;0.5; 0;0;0;0
+Combo7;112;268;110;151; 0.5;0.5; 0;0;0;0
+Combo8;112;115;110;151; 0.5;0.5; 0;0;0;0
+Combo9;224;208;110;151; 0.5;0.5; 0;0;0;0
+hit;112;421;146;91; 0.5;0.5; 0;0;0;0

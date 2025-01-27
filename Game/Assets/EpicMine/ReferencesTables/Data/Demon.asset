@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a6e2ae9dfd0774f89c78ec1e4d6a7c, type: 3}
+  m_Name: Demon
+  m_EditorClassIdentifier: 
+  Waiting:
+  - {fileID: 8300000, guid: f1e24dcf44a4fdc4bae937fa5b22ad5a, type: 3}
+  - {fileID: 8300000, guid: 55a0a907f0a5e3b4dbda8ffa3a319802, type: 3}
+  Release: {fileID: 8300000, guid: 7a9ccae17c2b437499f02003c0f8b8fb, type: 3}
+  Death: {fileID: 8300000, guid: 6b78fd1a30f464248aa5c252a08947f9, type: 3}
+  TakeDamage:
+  - {fileID: 8300000, guid: ff5fafc974fbbda4bb7922e696e05981, type: 3}
+  - {fileID: 8300000, guid: fb9e465a5c7925e408d72e51cc0ece46, type: 3}
+  AttackEnd:
+  - {fileID: 8300000, guid: ca290def21ff1a84c885443f1b3982b5, type: 3}
+  - {fileID: 8300000, guid: 2483d5c6432326d42b213b85f34ab807, type: 3}
+  AbilityEnd: {fileID: 8300000, guid: f8455da73c19bf64391088bb60f04234, type: 3}
+  JumpAway: {fileID: 8300000, guid: cba7f35f0ee0a1f4f90bc709854343bf, type: 3}
+  MaxSize: 3
+  MinSize: 5
+  StayDistance: 3
+  AwayDistance: 5
+  AbilityStart: {fileID: 8300000, guid: 4d68da0311d12f940bb1e94950bacd6f, type: 3}
+  AbilityProgress: {fileID: 8300000, guid: 2184fdbb82a7a6d42bbf6c8499cabb07, type: 3}
+  Ability2Start: {fileID: 8300000, guid: d69f0b14884c8554ebf6f1aa3e1c5a73, type: 3}
+  Ability2Progress: {fileID: 8300000, guid: 74195604db5c50341b734f5675bdfc65, type: 3}
+  Ability2End: {fileID: 8300000, guid: d067decb29ed4114ca36286fca94986b, type: 3}

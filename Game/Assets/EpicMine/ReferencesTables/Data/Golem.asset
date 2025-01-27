@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6076e70a433e61447a1a6415e50b628a, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier: 
+  Waiting:
+  - {fileID: 8300000, guid: a223da2a73cf7c94da0d251ce6b853eb, type: 3}
+  Release: {fileID: 8300000, guid: 880aa12cda9b99e48bc5d0d0df78c751, type: 3}
+  Death: {fileID: 8300000, guid: 48f61073e0a4e91448817ff3982a3cdf, type: 3}
+  TakeDamage:
+  - {fileID: 8300000, guid: e2e4fd560d425b3498baa8c32c18e625, type: 3}
+  AttackEnd:
+  - {fileID: 8300000, guid: 8d4a3caeda523dc40962f776d690d83e, type: 3}
+  - {fileID: 8300000, guid: ac19498cfa17dec428dca6089d35d1b8, type: 3}
+  AbilityEnd: {fileID: 8300000, guid: f038e783456a06148ab7b708980d95b2, type: 3}
+  JumpAway: {fileID: 0}
+  MaxSize: 6
+  MinSize: 3
+  StayDistance: 3
+  AwayDistance: 0
+  AbilityStart: {fileID: 8300000, guid: d3701795223cb914699304d306005593, type: 3}
+  AbilityProgress: {fileID: 8300000, guid: ec110512be578e142bf26ba7b80981e7, type: 3}

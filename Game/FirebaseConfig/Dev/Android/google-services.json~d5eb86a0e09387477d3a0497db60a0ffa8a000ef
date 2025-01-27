@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213777286740",
+    "firebase_url": "https://epicminedev.firebaseio.com",
+    "project_id": "epicminedev",
+    "storage_bucket": "epicminedev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213777286740:android:e1f7ad8c02000a67",
+        "android_client_info": {
+          "package_name": "ru.blacktemple.epicminedev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213777286740-gf05b0cgcp806t34igp14uo0pogm8c11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN5KVv6aPDbVo_fz0fGGZIG2DC9pn5DWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213777286740-gf05b0cgcp806t34igp14uo0pogm8c11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213777286740-jtu0nvre50m547ss270h55rdgu9pj85n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.blacktemple.epicminedev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

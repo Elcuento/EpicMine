@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 75ca0329e54b0484daa1af970ea9c43d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: RarityBackgroundLegendary
+  - first:
+      213: 21300002
+    second: RarityBackgroundRare
+  - first:
+      213: 21300004
+    second: ancient_pick
+  - first:
+      213: 21300006
+    second: assassin_pick
+  - first:
+      213: 21300008
+    second: blackness_pick
+  - first:
+      213: 21300010
+    second: blacksmith_pick
+  - first:
+      213: 21300012
+    second: brilliant_pick
+  - first:
+      213: 21300014
+    second: bronze_pick
+  - first:
+      213: 21300016
+    second: claw_pick
+  - first:
+      213: 21300018
+    second: conspirator_pick
+  - first:
+      213: 21300020
+    second: copper_pick
+  - first:
+      213: 21300022
+    second: crystalline_pick
+  - first:
+      213: 21300024
+    second: dawn_pick
+  - first:
+      213: 21300026
+    second: deepwounds_pick
+  - first:
+      213: 21300028
+    second: depth_pick
+  - first:
+      213: 21300030
+    second: diamond_pick
+  - first:
+      213: 21300032
+    second: dragon_pick
+  - first:
+      213: 21300034
+    second: dream_pick
+  - first:
+      213: 21300036
+    second: dwarven_pick
+  - first:
+      213: 21300038
+    second: elemental_pick
+  - first:
+      213: 21300040
+    second: elven_pick
+  - first:
+      213: 21300042
+    second: ferocity_pick
+  - first:
+      213: 21300044
+    second: firmhand_pick
+  - first:
+      213: 21300046
+    second: flawless_pick
+  - first:
+      213: 21300048
+    second: giant_pick
+  - first:
+      213: 21300050
+    second: goblin_pick
+  - first:
+      213: 21300052
+    second: greatpower_pick
+  - first:
+      213: 21300054
+    second: hardfire_pick
+  - first:
+      213: 21300056
+    second: heaven_pick
+  - first:
+      213: 21300058
+    second: heavenrage_pick
+  - first:
+      213: 21300060
+    second: hellfire_pick
+  - first:
+      213: 21300062
+    second: hopeless_pick
+  - first:
+      213: 21300064
+    second: humility_pick
+  - first:
+      213: 21300066
+    second: incredible_pick
+  - first:
+      213: 21300068
+    second: iron_pick
+  - first:
+      213: 21300070
+    second: kailo_pick
+  - first:
+      213: 21300072
+    second: lady_pick
+  - first:
+      213: 21300074
+    second: madness_pick
+  - first:
+      213: 21300076
+    second: mithril_pick
+  - first:
+      213: 21300078
+    second: patience_pick
+  - first:
+      213: 21300080
+    second: patterned_pick
+  - first:
+      213: 21300082
+    second: precious_pick
+  - first:
+      213: 21300084
+    second: primary_pick
+  - first:
+      213: 21300086
+    second: punitive_pick
+  - first:
+      213: 21300088
+    second: RarityBackgroundSimple
+  - first:
+      213: 21300090
+    second: secrets_pick
+  - first:
+      213: 21300092
+    second: silver_pick
+  - first:
+      213: 21300094
+    second: soulfire_pick
+  - first:
+      213: 21300096
+    second: splitter_pick
+  - first:
+      213: 21300098
+    second: stone_pick
+  - first:
+      213: 21300100
+    second: traitor_pick
+  - first:
+      213: 21300102
+    second: undead_pick
+  - first:
+      213: 21300104
+    second: winner_pick
+  - first:
+      213: 21300106
+    second: wood_pick
+  - first:
+      213: 21300108
+    second: attraction_pick
+  - first:
+      213: 21300110
+    second: dark_pick
+  - first:
+      213: 21300112
+    second: degeneration_pick
+  - first:
+      213: 21300114
+    second: gold_pick
+  - first:
+      213: 21300116
+    second: hardened_pick
+  - first:
+      213: 21300118
+    second: lucky_case_pick
+  - first:
+      213: 21300120
+    second: nightdream_pick
+  - first:
+      213: 21300122
+    second: numbness_pick
+  - first:
+      213: 21300124
+    second: revelations_pick
+  - first:
+      213: 21300126
+    second: scaly_pick
+  - first:
+      213: 21300128
+    second: stubbornness_pick
+  - first:
+      213: 21300130
+    second: tsar_pick
+  - first:
+      213: 21300132
+    second: underground_rivers_pick
+  - first:
+      213: 21300134
+    second: suggestion_pick
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ancient_pick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1663
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1446b5e0edf3e43b411fd1797cd4b7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin_pick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1389
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103d65cdce6f64c469df451fbc0b5a17
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attraction_pick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1115
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c3f658e2428b8498d3ddc802fa324b
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackness_pick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94593019ecdf0794b8e706528b946202
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksmith_pick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e957bfe3ea6be8d408f4518c327557cd
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brilliant_pick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc9532c55b8cd148a3792fdf46397aa
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze_pick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca76334274867e4599149bba831f094
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw_pick
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1663
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b411e99fda684714fb0ccf06502bf448
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conspirator_pick
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1663
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a167680ef921de4caa50c70e143fafa
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: copper_pick
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1663
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7843139d5445a34b83037a4224a6c9f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalline_pick
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1663
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2ce664c75241e419fc7fbb855a1b2b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_pick
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1663
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa31266c4087864fa8a0f9a2890fd3a
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawn_pick
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1663
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c88773b144a304aa6b213b999444a4
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deepwounds_pick
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1663
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca4a0351a543604e95e599a94eb9afe
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: degeneration_pick
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1663
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37d6812e76f4d945a6f06238ef67bdd
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depth_pick
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1389
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d55abf29dae184f93140cab773a239
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diamond_pick
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1115
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5610ee5947fea408d79fe8b974d96c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_pick
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 841
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c136c72621dbd4585ef3ce3146b278
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dream_pick
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 567
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfec00ae4e7a5a47b2e634927b420bf
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarven_pick
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 293
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5c0382866ced14591da648bb8941a6
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elemental_pick
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 19
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d36ad3897622424b83754fd9d682bf4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elven_pick
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1389
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283aa9459ca0ff740a269cc8eac20b5c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ferocity_pick
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1389
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443274ba3c8f6f74ab26d29e124d6917
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firmhand_pick
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1389
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9adfe24dad5e541bfb39c28e61ad29
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flawless_pick
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1389
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfee7307d15d9cb42a944e84c6aa94ab
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giant_pick
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1389
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4ade5d96e2204cb5e471436c58a62
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_pick
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1389
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccfe72dc7d234145abde46bdad97e33
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_pick
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1389
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e1f005a05bd1e488ca930d19235bad
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greatpower_pick
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1115
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ac3e904d73ebb42a8be7809d4c07fa
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardened_pick
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 841
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37396a92f9581d64098e21350540f241
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardfire_pick
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 567
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5c617ef3e88db4aa39fa6a6f9d41e8
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heaven_pick
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 293
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3916d263fb18064b9866fe6f000bb6b
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavenrage_pick
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 19
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f4aae53ad6a94cbac40808d41278e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellfire_pick
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1115
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c12dae178bdaf439813228d35eed28
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hopeless_pick
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 841
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b6812a1bb8d5342ab7bda213720e7c
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: humility_pick
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 567
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8c81c665fc8a04f8d5ca5895b8c07e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incredible_pick
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 293
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4477e118d75b89446b8f9e8a69339508
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iron_pick
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 19
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddee74a8cc402548a5331bb06a28aa4
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailo_pick
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1115
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ee3e1bf5a5ebb48b4d0ecdd9c94f91
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady_pick
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1115
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33db0bde6a8ee44aa2418493371d00
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucky_case_pick
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1115
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7644b724d2dc28842b4b870b50e36475
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: madness_pick
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1115
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10bd4537ff723140be1a200175436f7
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mithril_pick
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1115
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f212b58cc5398047bc890c0c49307a9
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nightdream_pick
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 841
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7667bd9263c234ea0f49dc5a876716
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: numbness_pick
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 567
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095f8211a22dd0444bb02f5a2c7cebc7
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patience_pick
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 293
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f6d53244d20934e973223cb0bac882
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patterned_pick
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 19
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939b5525178c98c449bcb2ba45a8d0a4
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: precious_pick
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 841
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d36a9a57fec30548ad2b5c26b61fbe7
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primary_pick
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 841
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb6dfb3f6716864eb0e3f2ab287867f
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punitive_pick
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 841
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55834df66b3b3d24fa71c3d692ebcbee
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revelations_pick
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 841
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d86f695ca2ec32428af86d19276a45c
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scaly_pick
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 567
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1aac8add85f54419de0dd9636978b4
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secrets_pick
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 293
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aced4c8cb558d0745adeb34a2ff55127
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silver_pick
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 19
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8053b1c883e32448331bc836690754
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulfire_pick
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 567
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded18ecc1d896d44e894967d73d79a0d
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter_pick
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 567
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541e9051b1ffb1a498b95961d21d3cb8
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone_pick
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 567
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd8ca8bcc4413c48a60ecfbf89103c5
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stubbornness_pick
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 293
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83478717a508e3942a990b6f56464fc1
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suggestion_pick
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 19
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37db241d977b5b842a3f99778ec45a81
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traitor_pick
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 293
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7af82c1ba593e343b577ec98a333958
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tsar_pick
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 293
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2742d218ef2cb2409baad632cef40ad
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_pick
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 19
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bd71b8622e1e340a8ede16de180ea9
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_rivers_pick
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 19
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c519f86423e0442ba7863c89969a4a
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 365f58aecd8ca3549811d1d5a22a539f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hopeless_pick: 21300062
+      stubbornness_pick: 21300128
+      underground_rivers_pick: 21300132
+      hellfire_pick: 21300060
+      bronze_pick: 21300014
+      numbness_pick: 21300122
+      incredible_pick: 21300066
+      gold_pick: 21300114
+      conspirator_pick: 21300018
+      ancient_pick: 21300004
+      hardfire_pick: 21300054
+      secrets_pick: 21300090
+      patience_pick: 21300078
+      deepwounds_pick: 21300026
+      scaly_pick: 21300126
+      flawless_pick: 21300046
+      dark_pick: 21300110
+      ferocity_pick: 21300042
+      depth_pick: 21300028
+      lucky_case_pick: 21300118
+      greatpower_pick: 21300052
+      traitor_pick: 21300100
+      attraction_pick: 21300108
+      claw_pick: 21300016
+      diamond_pick: 21300030
+      mithril_pick: 21300076
+      soulfire_pick: 21300094
+      tsar_pick: 21300130
+      blacksmith_pick: 21300010
+      dragon_pick: 21300032
+      humility_pick: 21300064
+      splitter_pick: 21300096
+      heaven_pick: 21300056
+      blackness_pick: 21300008
+      elven_pick: 21300040
+      heavenrage_pick: 21300058
+      giant_pick: 21300048
+      dawn_pick: 21300024
+      suggestion_pick: 21300134
+      copper_pick: 21300020
+      brilliant_pick: 21300012
+      dwarven_pick: 21300036
+      stone_pick: 21300098
+      hardened_pick: 21300116
+      lady_pick: 21300072
+      kailo_pick: 21300070
+      precious_pick: 21300082
+      revelations_pick: 21300124
+      goblin_pick: 21300050
+      elemental_pick: 21300038
+      iron_pick: 21300068
+      firmhand_pick: 21300044
+      nightdream_pick: 21300120
+      degeneration_pick: 21300112
+      patterned_pick: 21300080
+      primary_pick: 21300084
+      assassin_pick: 21300006
+      crystalline_pick: 21300022
+      silver_pick: 21300092
+      undead_pick: 21300102
+      madness_pick: 21300074
+      dream_pick: 21300034
+      punitive_pick: 21300086
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

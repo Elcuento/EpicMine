@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: PvP_Encelad_place_Data
+  m_EditorClassIdentifier: 
+  dataName: PvP_Encelad_place
+  dragonBonesJSON: {fileID: 4900000, guid: 9b0e33d72731cbe4d9887e862911bdb4, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 8fd57ac0e5246c4468ff37840f97c6b2, type: 3}
+    texture: {fileID: 2800000, guid: f572444182b92344fa1428e38d239ba5, type: 3}
+    material: {fileID: 2100000, guid: 4b00f28adc10d1b478b34d61120a13bc, type: 2}
+    uiMaterial: {fileID: 2100000, guid: e4f48aba950aa6649b3e2dcd3bd27806, type: 2}

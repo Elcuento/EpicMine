@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: autominer_02_Data
+  m_EditorClassIdentifier: 
+  dataName: autominer_02
+  dragonBonesJSON: {fileID: 4900000, guid: 41ace671972d7594f881d74987319432, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 0eb6c29b9b1d9584d9e4e27c04b257d0, type: 3}
+    texture: {fileID: 2800000, guid: 917956817d7b67a4895ac730c80e0d9a, type: 3}
+    material: {fileID: 2100000, guid: 6f7e554226d0c414abe6c98a4b361be6, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 5c4c3ddfd104b2242981ded28f0ec409, type: 2}

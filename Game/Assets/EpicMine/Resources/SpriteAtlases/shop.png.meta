@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: a798652fb08816f4e9816dfaf080950e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PickaxeBackground1
+  - first:
+      213: 21300002
+    second: PickaxeBackground2
+  - first:
+      213: 21300004
+    second: PickaxeBackground3
+  - first:
+      213: 21300006
+    second: PickaxeBackground4
+  - first:
+      213: 21300008
+    second: Sale
+  - first:
+      213: 21300010
+    second: shop_pack_chest_1
+  - first:
+      213: 21300012
+    second: shop_pack_chest_2
+  - first:
+      213: 21300014
+    second: shop_pack_chest_3
+  - first:
+      213: 21300016
+    second: shop_pack_crystals_1
+  - first:
+      213: 21300018
+    second: shop_pack_crystals_2
+  - first:
+      213: 21300020
+    second: shop_pack_crystals_3
+  - first:
+      213: 21300022
+    second: shop_pack_crystals_4
+  - first:
+      213: 21300024
+    second: shop_pack_crystals_5
+  - first:
+      213: 21300026
+    second: shop_pack_crystals_6
+  - first:
+      213: 21300028
+    second: shop_pack_gold_1
+  - first:
+      213: 21300030
+    second: shop_pack_gold_2
+  - first:
+      213: 21300032
+    second: shop_pack_gold_3
+  - first:
+      213: 21300034
+    second: shop_pack_potion_1
+  - first:
+      213: 21300036
+    second: shop_pack_potion_2
+  - first:
+      213: 21300038
+    second: shop_pack_potion_3
+  - first:
+      213: 21300040
+    second: shop_pack_tnt_1
+  - first:
+      213: 21300042
+    second: shop_pack_tnt_2
+  - first:
+      213: 21300044
+    second: shop_pack_tnt_3
+  - first:
+      213: 21300046
+    second: shop_pack_gold_4
+  - first:
+      213: 21300048
+    second: RarityBackgroundLegendary
+  - first:
+      213: 21300050
+    second: RarityBackgroundRare
+  - first:
+      213: 21300052
+    second: RarityBackgroundSimple
+  - first:
+      213: 21300054
+    second: shop_pack_crystals_0
+  - first:
+      213: 21300056
+    second: shop_crystals
+  - first:
+      213: -6530273078317012934
+    second: ForceAds
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForceAds
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 584
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a382e90fb3fcf55a0800000000000000
+      internalID: -6530273078317012934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickaxeBackground1
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 511
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickaxeBackground2
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 511
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickaxeBackground3
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 237
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickaxeBackground4
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 388
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RarityBackgroundLegendary
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 114
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RarityBackgroundRare
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 388
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RarityBackgroundSimple
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 388
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sale
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 458
+        width: 199
+        height: 199
+      alignment: 9
+      pivot: {x: 0.49748743, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_crystals
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 662
+        width: 467
+        height: 380
+      alignment: 9
+      pivot: {x: 0.51927197, y: 0.44473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_chest_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 452
+        width: 290
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5086207, y: 0.39512196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_chest_2
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1047
+        width: 329
+        height: 228
+      alignment: 9
+      pivot: {x: 0.50303954, y: 0.35964912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_chest_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1280
+        width: 342
+        height: 235
+      alignment: 9
+      pivot: {x: 0.49853802, y: 0.34468085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_crystals_0
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 164
+        width: 295
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4982699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_crystals_1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 771
+        width: 440
+        height: 370
+      alignment: 9
+      pivot: {x: 0.45568183, y: 0.44054055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_crystals_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1146
+        width: 507
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43396226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_crystals_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 785
+        width: 468
+        height: 417
+      alignment: 9
+      pivot: {x: 0.4946581, y: 0.41007194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_crystals_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 515
+        height: 487
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4804928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_crystals_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1522
+        width: 515
+        height: 526
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4543726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_crystals_6
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1621
+        width: 515
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39578456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_gold_1
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1738
+        width: 377
+        height: 310
+      alignment: 9
+      pivot: {x: 0.41777188, y: 0.63870966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_gold_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 422
+        height: 377
+      alignment: 9
+      pivot: {x: 0.47985783, y: 0.52519894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_gold_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 439
+        height: 408
+      alignment: 9
+      pivot: {x: 0.52050114, y: 0.4632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_gold_4
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1207
+        width: 515
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41320294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_potion_1
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 140
+        width: 145
+        height: 243
+      alignment: 9
+      pivot: {x: 0.47931033, y: 0.3580247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_potion_2
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 140
+        width: 145
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34979424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_potion_3
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 140
+        width: 145
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3621399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_tnt_1
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1520
+        width: 352
+        height: 213
+      alignment: 9
+      pivot: {x: 0.2684659, y: 0.5023474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_tnt_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 103
+        width: 426
+        height: 308
+      alignment: 9
+      pivot: {x: 0.42605633, y: 0.4707792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_pack_tnt_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 471
+        height: 370
+      alignment: 9
+      pivot: {x: 0.45329088, y: 0.45135134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 265166be1b7bb6d478173e4d577ebf3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shop_pack_crystals_2: 21300018
+      shop_pack_tnt_1: 21300040
+      shop_pack_crystals_4: 21300022
+      ForceAds: -6530273078317012934
+      PickaxeBackground4: 21300006
+      shop_pack_crystals_3: 21300020
+      shop_pack_potion_1: 21300034
+      shop_crystals: 21300056
+      shop_pack_crystals_6: 21300026
+      shop_pack_gold_3: 21300032
+      PickaxeBackground2: 21300002
+      Sale: 21300008
+      shop_pack_chest_3: 21300014
+      shop_pack_tnt_3: 21300044
+      shop_pack_chest_1: 21300010
+      RarityBackgroundSimple: 21300052
+      shop_pack_potion_3: 21300038
+      shop_pack_tnt_2: 21300042
+      RarityBackgroundLegendary: 21300048
+      PickaxeBackground3: 21300004
+      shop_pack_crystals_5: 21300024
+      shop_pack_crystals_0: 21300054
+      shop_pack_chest_2: 21300012
+      shop_pack_gold_4: 21300046
+      shop_pack_crystals_1: 21300016
+      shop_pack_potion_2: 21300036
+      RarityBackgroundRare: 21300050
+      shop_pack_gold_2: 21300030
+      PickaxeBackground1: 21300000
+      shop_pack_gold_1: 21300028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: Wood_Chest_open_Data
+  m_EditorClassIdentifier: 
+  dataName: Wood_Chest_open
+  dragonBonesJSON: {fileID: 4900000, guid: c387b834cbffa98409c7329ab5db5718, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 1b38c73223aff0e478b7d1c509523f0b, type: 3}
+    texture: {fileID: 2800000, guid: f473b20e80b47954d8e2f5c68828473d, type: 3}
+    material: {fileID: 2100000, guid: cec046af2085e46468129ebd8464c467, type: 2}
+    uiMaterial: {fileID: 2100000, guid: bf291716d6bc4a645ae57d3ed94b8545, type: 2}

@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:19324648da7a7a211698a849a9eb3932:1bc926643075595fe4563d490544ddf3:8178aa03834f33686f27b05f45ddecd6$
+#
+:format=40300
+:texture=Winter.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+cap;751;963;60;41; 0.5;0.5; 0;0;0;0
+color_garland;195;18;310;68; 0.5;0.5; 0;0;0;0
+garland;1;4;192;82; 0.5;0.5; 0;0;0;0
+garland_1;1;88;463;348; 0.5;0.5; 0;0;0;0
+garland_2;827;902;71;121; 0.5;0.5; 0;0;0;0
+scarf_1;751;934;53;27; 0.5;0.5; 0;0;0;0
+scarf_2;751;900;20;32; 0.5;0.5; 0;0;0;0
+snowdrift;751;1006;74;17; 0.5;0.5; 0;0;0;0
+Tree;1;438;373;585; 0.5;0.5; 0;0;0;0
+Tree_snow;376;438;373;585; 0.5;0.5; 0;0;0;0
