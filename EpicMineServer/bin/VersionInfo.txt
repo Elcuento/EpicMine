@@ -1,0 +1,97 @@
+[ {
+  "appVersion" : "0.0.0",
+  "isOutdated" : false,
+  "isPreferUpdate" : false,
+  "localizationVersions" : {
+    "eng" : 10,
+    "ru" : 26
+  },
+  "photonVersion" : 0,
+  "platform" : "All",
+  "serverVersion" : 6,
+  "staticVersion" : 23
+},{
+  "appVersion" : "1.7.7",
+  "isOutdated" : true,
+  "isPreferUpdate" : false,
+  "localizationVersions" : {
+    "eng" : 10,
+    "ru" : 26
+  },
+  "photonVersion" : 0,
+  "platform" : "All",
+  "serverVersion" : 6,
+  "staticVersion" : 23
+}, {
+  "appVersion" : "1.8.0",
+  "isOutdated" : true,
+  "isPreferUpdate" : false,
+  "localizationVersions" : {
+    "eng" : 10,
+    "ru" : 26
+  },
+  "photonVersion" : 0,
+  "platform" : "All",
+  "serverVersion" : 6,
+  "staticVersion" : 23
+}, {
+  "appVersion" : "1.8.1",
+  "isOutdated" : true,
+  "isPreferUpdate" : false,
+  "localizationVersions" : {
+    "eng" : 10,
+    "ru" : 26
+  },
+  "photonVersion" : 0,
+  "platform" : "All",
+  "serverVersion" : 6,
+  "staticVersion" : 23
+}, {
+  "appVersion" : "1.8.2",
+  "isOutdated" : true,
+  "isPreferUpdate" : false,
+  "localizationVersions" : {
+    "eng" : 10,
+    "ru" : 26
+  },
+  "photonVersion" : 0,
+  "platform" : "All",
+  "serverVersion" : 6,
+  "staticVersion" : 23
+}, {
+  "appVersion" : "1.8.3",
+  "isOutdated" : true,
+  "isPreferUpdate" : false,
+  "localizationVersions" : {
+    "eng" : 10,
+    "ru" : 26
+  },
+  "photonVersion" : 0,
+  "platform" : "All",
+  "serverVersion" : 6,
+  "staticVersion" : 23
+},{
+  "appVersion" : "1.8.4",
+  "isOutdated" : false,
+  "isPreferUpdate" : false,
+  "localizationVersions" : {
+    "eng" : 10,
+    "ru" : 26
+  },
+  "photonVersion" : 0,
+  "platform" : "All",
+  "serverVersion" : 6,
+  "staticVersion" : 23
+},{
+  "appVersion" : "1.8.5",
+  "isOutdated" : false,
+  "isPreferUpdate" : false,
+  "localizationVersions" : {
+    "eng" : 10,
+    "ru" : 26
+  },
+  "photonVersion" : 0,
+  "platform" : "All",
+  "serverVersion" : 6,
+  "staticVersion" : 23
+} ]

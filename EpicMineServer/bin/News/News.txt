@@ -1,0 +1,25 @@
+[ {
+  "Date" : "04.04.2020",
+  "Description" : "Good weather returns to Epic Mine!",
+  "Language" : "EN",
+  "Platform" : "All",
+  "Title" : "Update"
+}, {
+  "Date" : "04.04.2020",
+  "Description" : "Хорошая погода возвращается в Epic Mine!",
+  "Language" : "RU",
+  "Platform" : "All",
+  "Title" : "Update"
+}, {
+  "Date" : "29.11.2019",
+  "Description" : "The first snow fell in the miners' village!\nDownload Winter Update and help residents survive the cold!\nAs a reward you will receive unique pickaxes, Ice Torch and other gifts!",
+  "Language" : "EN",
+  "Platform" : "All",
+  "Title" : "Update"
+}, {
+  "Date" : "29.11.2019",
+  "Description" : "В деревне шахтёров выпал первый снег!\nЗагрузите Зимнее Обновление и помогите жителям пережить холода!\nВ награду вы получите уникальные кирки, Ледяной Факел и другие подарки!\n",
+  "Language" : "RU",
+  "Platform" : "All",
+  "Title" : "Update"
+} ]
