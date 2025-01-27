@@ -1,0 +1,78 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/EpicMine/Resources/SpriteAtlases/Shop.tpsheet
+- Assets/EpicMine/Resources/SpriteAtlases/shop.tpsheet
+- Assets/EpicMine/Resources/SpriteAtlases/Winter.tpsheet
+- Assets/EpicMine/Sources/Sprites/Common/Backgrounds/Backgrounds1.tpsheet
+- Assets/EpicMine/Sources/Sprites/Common/Backgrounds/Backgrounds2.tpsheet
+- Assets/EpicMine/Sources/Sprites/Common/Icons/Icons.tpsheet
+- Assets/EpicMine/Sources/Sprites/Common/Icons/Icons2.tpsheet
+- Assets/EpicMine/Sources/Sprites/Common/Icons/Icons3.tpsheet
+- Assets/EpicMine/Sources/Sprites/Scenes/EntryPoint/SplashScreen.tpsheet
+- Assets/EpicMine/Sources/Sprites/Scenes/Mine/Mine1.tpsheet
+- Assets/EpicMine/Sources/Sprites/Scenes/Mine/Mine2.tpsheet
+- Assets/EpicMine/Sources/Sprites/Scenes/TiersNew/Tiers1.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/Chests.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/EnchantedChests1.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/EnchantedChests2.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/PvpChests1.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/PvpChests2.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/ShopChests1.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/ShopChests2.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/Gifts/Gifts.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/RateUs/RateUs1.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/RateUs/RateUs2.tpsheet
+- Assets/EpicMine/Sources/Sprites/Windows/Shop/Shop1.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/EpicMine/Resources/SpriteAtlases/Shop.png
+- Assets/EpicMine/Resources/SpriteAtlases/Shop.png
+- Assets/EpicMine/Resources/SpriteAtlases/Winter.png
+- Assets/EpicMine/Sources/Sprites/Common/Backgrounds/Backgrounds1.png
+- Assets/EpicMine/Sources/Sprites/Common/Backgrounds/Backgrounds2.png
+- Assets/EpicMine/Sources/Sprites/Common/Icons/Icons.png
+- Assets/EpicMine/Sources/Sprites/Common/Icons/Icons2.png
+- Assets/EpicMine/Sources/Sprites/Common/Icons/Icons3.png
+- Assets/EpicMine/Sources/Sprites/Scenes/EntryPoint/SplashScreen.png
+- Assets/EpicMine/Sources/Sprites/Scenes/Mine/Mine1.png
+- Assets/EpicMine/Sources/Sprites/Scenes/Mine/Mine2.png
+- Assets/EpicMine/Sources/Sprites/Scenes/TiersNew/Tiers1.png
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/Chests.png
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/EnchantedChests1.png
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/EnchantedChests2.png
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/PvpChests1.png
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/PvpChests2.png
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/ShopChests1.png
+- Assets/EpicMine/Sources/Sprites/Windows/Chests/ShopChests2.png
+- Assets/EpicMine/Sources/Sprites/Windows/Gifts/Gifts.png
+- Assets/EpicMine/Sources/Sprites/Windows/RateUs/RateUs1.png
+- Assets/EpicMine/Sources/Sprites/Windows/RateUs/RateUs2.png
+- Assets/EpicMine/Sources/Sprites/Windows/Shop/Shop1.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

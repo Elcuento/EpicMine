@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 293361c34d450f14d856868fcaceb41b, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  MineCompleteIcon: {fileID: 21300070, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  MineIncompleteIcon: {fileID: 21300072, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  MineLastIcon: {fileID: 21300074, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  GoldIcon: {fileID: 21300046, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  CrystalsIcon: {fileID: 21300036, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  StarEmptyIcon: {fileID: 21300104, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  StarFullIcon: {fileID: 21300106, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  SkullEmptyIcon: {fileID: 21300098, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  SkullFullIcon: {fileID: 21300100, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  ArtefactIcon: {fileID: 21300012, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  ButtonGreen: {fileID: 21300080, guid: d6f64c1e631d878488b5d6aa504aa136, type: 3}
+  ButtonGrey: {fileID: 21300086, guid: d6f64c1e631d878488b5d6aa504aa136, type: 3}
+  ButtonGrown: {fileID: 21300094, guid: d6f64c1e631d878488b5d6aa504aa136, type: 3}
+  ButtonYellow: {fileID: 21300176, guid: d6f64c1e631d878488b5d6aa504aa136, type: 3}
+  ButtonRed: {fileID: 21300096, guid: d6f64c1e631d878488b5d6aa504aa136, type: 3}
+  WorkShopActiveButton: {fileID: 21300052, guid: 16a812a2cdaf0594ea7401e5485ff805,
+    type: 3}
+  WorkShopInactiveButton: {fileID: 21300054, guid: 16a812a2cdaf0594ea7401e5485ff805,
+    type: 3}
+  Simple: {fileID: 21300052, guid: a798652fb08816f4e9816dfaf080950e, type: 3}
+  Rare: {fileID: 21300050, guid: a798652fb08816f4e9816dfaf080950e, type: 3}
+  Legendary: {fileID: 21300048, guid: a798652fb08816f4e9816dfaf080950e, type: 3}
+  DamageIcon: {fileID: 21300176, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  FortuneIcon: {fileID: 21300182, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  CritIcon: {fileID: 21300174, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  ShopPackCrystalsBackground: {fileID: 21300006, guid: ce1fa6ab2e0bd7e4f8332dc077141955,
+    type: 3}
+  ShopPackChestBackgrounds:
+  - {fileID: 21300000, guid: ce1fa6ab2e0bd7e4f8332dc077141955, type: 3}
+  - {fileID: 21300002, guid: ce1fa6ab2e0bd7e4f8332dc077141955, type: 3}
+  - {fileID: 21300004, guid: ce1fa6ab2e0bd7e4f8332dc077141955, type: 3}
+  ShopPackPickaxeBackgrounds:
+  - {fileID: 21300000, guid: a798652fb08816f4e9816dfaf080950e, type: 3}
+  - {fileID: 21300002, guid: a798652fb08816f4e9816dfaf080950e, type: 3}
+  - {fileID: 21300004, guid: a798652fb08816f4e9816dfaf080950e, type: 3}
+  - {fileID: 21300006, guid: a798652fb08816f4e9816dfaf080950e, type: 3}
+  ExplosiveStrikeAbilityIcon: {fileID: 21300178, guid: 882eb35dcd46edd40974a862449a11c1,
+    type: 3}
+  FreezingAbilityIcon: {fileID: 21300184, guid: 882eb35dcd46edd40974a862449a11c1,
+    type: 3}
+  FreezingAbilityBuffIcon: {fileID: 21300188, guid: 882eb35dcd46edd40974a862449a11c1,
+    type: 3}
+  FreezingAbilityAdditionalIcon: {fileID: 21300186, guid: 882eb35dcd46edd40974a862449a11c1,
+    type: 3}
+  AcidAbilityIcon: {fileID: 21300168, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  AcidAbilityBuffIcon: {fileID: 21300170, guid: 882eb35dcd46edd40974a862449a11c1,
+    type: 3}
+  HealingBuffIcon: {fileID: 21300080, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  AbilityCooldownIcon: {fileID: 21300112, guid: 882eb35dcd46edd40974a862449a11c1,
+    type: 3}
+  AbilityDamageIcon: {fileID: 21300166, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  EffectIcons:
+  - {fileID: 21300012, guid: 18a794bd21f2bd24dbbf46c6a9157861, type: 3}
+  - {fileID: 21300014, guid: 18a794bd21f2bd24dbbf46c6a9157861, type: 3}
+  - {fileID: 21300016, guid: 18a794bd21f2bd24dbbf46c6a9157861, type: 3}
+  - {fileID: 21300018, guid: 18a794bd21f2bd24dbbf46c6a9157861, type: 3}
+  - {fileID: 21300020, guid: 18a794bd21f2bd24dbbf46c6a9157861, type: 3}
+  - {fileID: 21300022, guid: 18a794bd21f2bd24dbbf46c6a9157861, type: 3}
+  PrestigeIcons:
+  - {fileID: 21300082, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  - {fileID: 21300084, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  - {fileID: 21300086, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  - {fileID: 21300088, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  - {fileID: 21300090, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  HeartIcon: {fileID: 21300056, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  EnergyIcon: {fileID: 21300040, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  ChatIcon: {fileID: 21300042, guid: 16a812a2cdaf0594ea7401e5485ff805, type: 3}
+  CloseIcon: {fileID: 21300030, guid: 882eb35dcd46edd40974a862449a11c1, type: 3}
+  InnerCrack:
+  - {fileID: 2800000, guid: d0053c16fc3b3f346b01be8b6c47ecde, type: 3}
+  - {fileID: 2800000, guid: 09b7beb4c340f3343bdd622880184c33, type: 3}
+  - {fileID: 2800000, guid: 63de41539bba0534e9de4f2988248a34, type: 3}
+  - {fileID: 2800000, guid: cf4774222164a5e45ba878097d633c13, type: 3}
+  - {fileID: 2800000, guid: 6412e95bbe7bf0f4397a6bd7291df8b1, type: 3}
+  - {fileID: 2800000, guid: 775469083a1228e4c938f81b5bd6cf0b, type: 3}
+  OuterCrack:
+  - {fileID: 2800000, guid: 5427674b3bf14134db4d53771779e9d9, type: 3}
+  - {fileID: 2800000, guid: 823537523a3f7fd43acdebd6a79d7ffc, type: 3}
+  - {fileID: 2800000, guid: de8310e5a136dd44f84b04eed590fdef, type: 3}
+  - {fileID: 2800000, guid: dbc5093d941ba2c4ebf21c33b5c8c2fe, type: 3}
+  - {fileID: 2800000, guid: 94a7bcaa0ee2d634abc2925c3432d913, type: 3}
+  - {fileID: 2800000, guid: 69887ceb936bf9045a8638a8512bf34d, type: 3}
+  CriticalCrack:
+  - {fileID: 2800000, guid: c28e5d6eedf9234498da9557ed707d3c, type: 3}
+  - {fileID: 2800000, guid: 7d06b61b69a85314f9e23d3f7b12b039, type: 3}
+  - {fileID: 2800000, guid: 7a71f29658190bf4a883c35a70a1c0c0, type: 3}
+  - {fileID: 2800000, guid: 49871dc9be9160a4995d51b16dc7ea2c, type: 3}
+  QuestGetIcon: {fileID: 261866430317176633, guid: 16a812a2cdaf0594ea7401e5485ff805,
+    type: 3}
+  QuestCompleteIcon: {fileID: 930024826611938051, guid: 16a812a2cdaf0594ea7401e5485ff805,
+    type: 3}
+  Features:
+  - Id: 0
+    Resource: {fileID: 21300056, guid: 16a812a2cdaf0594ea7401e5485ff805, type: 3}
+  - Id: 1
+    Resource: {fileID: -2902599502920853549, guid: 16a812a2cdaf0594ea7401e5485ff805,
+      type: 3}

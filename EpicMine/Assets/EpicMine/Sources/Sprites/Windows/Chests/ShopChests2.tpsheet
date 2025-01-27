@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:df17da97babda6c1eafa6a7d14741055:97c1ac787ea7277fbaf2176d53a5cdcc:84c0a50d601d3f8bd3f877cef52bfadf$
+#
+:format=40300
+:texture=ShopChests2.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+MinerOpenedBottom;1;334;390;177; 0.5;0.5; 0;0;0;0; 8;381;36;390;34;390;0;0;0;0;34;11;36;12;177;380;177; 6;5;6;7;3;4;5;0;5;7;0;1;2;5;0;2;5;2;3
+MinerOpenedTop;1;74;374;258; 0.5;0.5; 0;0;0;0; 18;252;222;374;226;374;101;341;13;331;0;294;0;220;14;81;8;72;0;14;0;9;14;0;42;0;68;62;218;131;222;169;230;170;258;233;258; 16;15;16;17;7;13;14;10;8;9;0;15;17;11;12;7;11;7;10;10;7;8;7;12;13;14;6;7;14;15;6;6;0;2;3;4;5;6;2;5;0;1;2;5;2;3;0;6;15

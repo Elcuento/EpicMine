@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0142c5b098061ec4cb434a59d39c5849, type: 3}
+  m_Name: ROOT
+  m_EditorClassIdentifier: 
+  Sprites: {fileID: 11400000, guid: b15e21d88f93b4246aed32b491e764aa, type: 2}
+  Music: {fileID: 11400000, guid: 0eeec4b7bcbddad48ab00270d1984ae7, type: 2}
+  Sounds: {fileID: 11400000, guid: 9b97b9072757e0a449c655f3bc4e3023, type: 2}
+  Colors: {fileID: 11400000, guid: 817e89cf0bc79ec43ab0cd88d014cc96, type: 2}
+  FileData: {fileID: 11400000, guid: dc555d1ce5595f44481222c116a1a53d, type: 2}

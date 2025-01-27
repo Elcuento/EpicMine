@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: Encelad_pr_Data
+  m_EditorClassIdentifier: 
+  dataName: Encelad_pr
+  dragonBonesJSON: {fileID: 4900000, guid: 0d988e13364426c459e3d956f1d76895, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: d60058d072a256b4c9c924d6121ee2c8, type: 3}
+    texture: {fileID: 2800000, guid: 1eaed171bb7a3d44b993416865ce6168, type: 3}
+    material: {fileID: 2100000, guid: 16a90b3aede9a1142aff46cc0f94923a, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 63d05452c3556b749bed73f128e2af1e, type: 2}

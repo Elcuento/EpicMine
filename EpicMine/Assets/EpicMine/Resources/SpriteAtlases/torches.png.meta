@@ -1,0 +1,1197 @@
+fileFormatVersion: 2
+guid: 19a3ad91412cc9246b558f691d3d9ab3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 364093610562310019
+    second: torch_crs_authorities
+  - first:
+      213: -3457139269802969314
+    second: torch_crs_dawn
+  - first:
+      213: -1410427619658522232
+    second: torch_crs_good
+  - first:
+      213: 7531599352258662640
+    second: torch_crs_honor
+  - first:
+      213: 2928031997389432294
+    second: torch_crs_ice
+  - first:
+      213: -3475812834689061324
+    second: torch_crs_pride
+  - first:
+      213: -7855645770647243824
+    second: torch_crs_rabies
+  - first:
+      213: -3242161471377527337
+    second: torch_crs_suffering
+  - first:
+      213: 8881808595284717572
+    second: torch_crs_wealth
+  - first:
+      213: 2529217304203865978
+    second: torch_fear
+  - first:
+      213: -5050583090024914183
+    second: torch_fkl_antiquities
+  - first:
+      213: -62294590958988729
+    second: torch_fkl_depths
+  - first:
+      213: -68250434488814173
+    second: torch_fkl_dragon
+  - first:
+      213: 7778781703230462889
+    second: torch_fkl_fearlessness
+  - first:
+      213: -1027994548764043558
+    second: torch_fkl_gnomes
+  - first:
+      213: 5653797159209686586
+    second: torch_fkl_nature
+  - first:
+      213: -2122233319203387350
+    second: torch_fkl_perfect
+  - first:
+      213: -8277806942336583646
+    second: torch_fkl_plain
+  - first:
+      213: 7026922113737841242
+    second: torch_flm_justice
+  - first:
+      213: 5412652641400810723
+    second: torch_flm_rage
+  - first:
+      213: -297845558115483888
+    second: torch_flm_titanium
+  - first:
+      213: 323665581562115342
+    second: torch_fnr_conspirator
+  - first:
+      213: 2494673470141328270
+    second: torch_fnr_love
+  - first:
+      213: -472069837827411417
+    second: torch_fnr_nights
+  - first:
+      213: 3169067415713207753
+    second: torch_fnr_truth
+  - first:
+      213: -2873764646968423162
+    second: torch_lmp_anger
+  - first:
+      213: -6415690449828756514
+    second: torch_lmp_good
+  - first:
+      213: -6589532753273285289
+    second: torch_lmp_justice
+  - first:
+      213: 3891185691678866795
+    second: torch_lmp_killers
+  - first:
+      213: -6751977924600196854
+    second: torch_lmp_life
+  - first:
+      213: 8118776932439460995
+    second: torch_lmp_monsters
+  - first:
+      213: 2158659970318403809
+    second: torch_lmp_perseverance
+  - first:
+      213: -929857311587376506
+    second: torch_lmp_troll
+  - first:
+      213: 2486232140766950440
+    second: torch_myk_baron
+  - first:
+      213: -8641463585241187328
+    second: torch_myk_champion
+  - first:
+      213: -521318283350118286
+    second: torch_myk_demon
+  - first:
+      213: 2792445021909550758
+    second: torch_myk_ghost
+  - first:
+      213: -7494565713167076149
+    second: torch_skl_demon
+  - first:
+      213: -6054295132085551534
+    second: torch_skl_precious
+  - first:
+      213: 4489529714143457748
+    second: torch_skl_satan
+  - first:
+      213: 509366137481043583
+    second: torch_svt_dungeons
+  - first:
+      213: 4650491961653650554
+    second: torch_svt_greatness
+  - first:
+      213: -7235190621136487114
+    second: torch_svt_patience
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torch_crs_authorities
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1779
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f4e82b5358d0500800000000000000
+      internalID: 364093610562310019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_crs_dawn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1505
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17375c9626c500d0800000000000000
+      internalID: -3457139269802969314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_crs_good
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1231
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881aadc7d872d6ce0800000000000000
+      internalID: -1410427619658522232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_crs_honor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 957
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f090fde4bd958860800000000000000
+      internalID: 7531599352258662640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_crs_ice
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5ef57969572a820800000000000000
+      internalID: 2928031997389432294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_crs_pride
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6d9a74ae63cfc0800000000000000
+      internalID: -3475812834689061324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_crs_rabies
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d37547eac32bf290800000000000000
+      internalID: -7855645770647243824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_crs_suffering
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1779
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dda51ac1578103d0800000000000000
+      internalID: -3242161471377527337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_crs_wealth
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1779
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400f4fc0cd5824b70800000000000000
+      internalID: 8881808595284717572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fear
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1779
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fa7d0ecb5991320800000000000000
+      internalID: 2529217304203865978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fkl_antiquities
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1779
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f268725079b8e9b0800000000000000
+      internalID: -5050583090024914183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fkl_depths
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1779
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742167a466fa22ff0800000000000000
+      internalID: -62294590958988729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fkl_dragon
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1779
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5378867968d0ff0800000000000000
+      internalID: -68250434488814173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fkl_fearlessness
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1779
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab1c5eceb8c3fb60800000000000000
+      internalID: 7778781703230462889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fkl_gnomes
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1779
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad691e98764dbb1f0800000000000000
+      internalID: -1027994548764043558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fkl_nature
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1505
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a365ecaaf82567e40800000000000000
+      internalID: 5653797159209686586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fkl_perfect
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1231
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28426e4a005c82e0800000000000000
+      internalID: -2122233319203387350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fkl_plain
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 957
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228f3c291725f1d80800000000000000
+      internalID: -8277806942336583646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_flm_justice
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 683
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a5ea5ae64a48160800000000000000
+      internalID: 7026922113737841242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_flm_rage
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 409
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec664f56ea9d1b40800000000000000
+      internalID: 5412652641400810723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_flm_titanium
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 135
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f399efa07dddbf0800000000000000
+      internalID: -297845558115483888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fnr_conspirator
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1505
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05b70fa124ed7400800000000000000
+      internalID: 323665581562115342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fnr_love
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1505
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b6d52cd4cde9220800000000000000
+      internalID: 2494673470141328270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fnr_nights
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1505
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722fe1fcbfed279f0800000000000000
+      internalID: -472069837827411417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_fnr_truth
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1505
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d9de260acafb20800000000000000
+      internalID: 3169067415713207753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_lmp_anger
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1505
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d0f5987465e18d0800000000000000
+      internalID: -2873764646968423162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_lmp_good
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1505
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed347151783e6f6a0800000000000000
+      internalID: -6415690449828756514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_lmp_justice
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1505
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755185dafd64d84a0800000000000000
+      internalID: -6589532753273285289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_lmp_killers
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1231
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6df99b25c4400630800000000000000
+      internalID: 3891185691678866795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_lmp_life
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 957
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011de0e9d72c42a0800000000000000
+      internalID: -6751977924600196854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_lmp_monsters
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 683
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c80bcda90bba070800000000000000
+      internalID: 8118776932439460995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_lmp_perseverance
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 409
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e80fa15ec915fd10800000000000000
+      internalID: 2158659970318403809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_lmp_troll
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 135
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682e803a3bb7813f0800000000000000
+      internalID: -929857311587376506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_myk_baron
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1231
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b29b95fed08220800000000000000
+      internalID: 2486232140766950440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_myk_champion
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 957
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cb93657aa531880800000000000000
+      internalID: -8641463585241187328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_myk_demon
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 683
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270fff988c7e3c8f0800000000000000
+      internalID: -521318283350118286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_myk_ghost
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 409
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a60ab1d3f1c0c620800000000000000
+      internalID: 2792445021909550758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_skl_demon
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 135
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4bad81134fdf790800000000000000
+      internalID: -7494565713167076149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_skl_precious
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1231
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ef9a687a2dafba0800000000000000
+      internalID: -6054295132085551534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_skl_satan
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1231
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1f41c0d730e4e30800000000000000
+      internalID: 4489529714143457748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_svt_dungeons
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1231
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e9b25adc1a11700800000000000000
+      internalID: 509366137481043583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_svt_greatness
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1231
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ec2dbccdd98040800000000000000
+      internalID: 4650491961653650554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_svt_patience
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1231
+        width: 210
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dfbe8b670779b90800000000000000
+      internalID: -7235190621136487114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      torch_fnr_truth: 3169067415713207753
+      torch_lmp_troll: -929857311587376506
+      torch_fkl_dragon: -68250434488814173
+      torch_fnr_conspirator: 323665581562115342
+      torch_lmp_good: -6415690449828756514
+      torch_fkl_antiquities: -5050583090024914183
+      torch_svt_patience: -7235190621136487114
+      torch_myk_demon: -521318283350118286
+      torch_crs_good: -1410427619658522232
+      torch_fkl_gnomes: -1027994548764043558
+      torch_crs_authorities: 364093610562310019
+      torch_crs_pride: -3475812834689061324
+      torch_crs_rabies: -7855645770647243824
+      torch_fear: 2529217304203865978
+      torch_fnr_nights: -472069837827411417
+      torch_svt_dungeons: 509366137481043583
+      torch_skl_demon: -7494565713167076149
+      torch_skl_satan: 4489529714143457748
+      torch_fkl_perfect: -2122233319203387350
+      torch_lmp_justice: -6589532753273285289
+      torch_myk_baron: 2486232140766950440
+      torch_lmp_killers: 3891185691678866795
+      torch_skl_precious: -6054295132085551534
+      torch_svt_greatness: 4650491961653650554
+      torch_flm_rage: 5412652641400810723
+      torch_lmp_anger: -2873764646968423162
+      torch_fkl_depths: -62294590958988729
+      torch_myk_champion: -8641463585241187328
+      torch_lmp_monsters: 8118776932439460995
+      torch_fkl_plain: -8277806942336583646
+      torch_flm_justice: 7026922113737841242
+      torch_myk_ghost: 2792445021909550758
+      torch_fkl_fearlessness: 7778781703230462889
+      torch_crs_honor: 7531599352258662640
+      torch_fkl_nature: 5653797159209686586
+      torch_fnr_love: 2494673470141328270
+      torch_crs_suffering: -3242161471377527337
+      torch_lmp_perseverance: 2158659970318403809
+      torch_lmp_life: -6751977924600196854
+      torch_flm_titanium: -297845558115483888
+      torch_crs_dawn: -3457139269802969314
+      torch_crs_wealth: 8881808595284717572
+      torch_crs_ice: 2928031997389432294
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

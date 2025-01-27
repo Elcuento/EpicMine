@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:6d4fac15c4470e04b7d33b0bf2b38af7:18704f7d156c2192477fcea6cfa902fa:eecb43bd6f75afc622d066ca6a8933df$
+#
+:format=40300
+:texture=PvpChests2.png
+:size=832x832
+:pivotpoints=enabled
+:borders=disabled
+
+PvpTrophyChestBottom;1;4;465;196; 0.5;0.5; 0;0;0;0
+PvpTrophyChestClosed;1;202;465;312; 0.5;0.5; 0;0;0;0
+PvpTrophyChestTop;1;516;476;315; 0.5;0.5; 0;0;0;0

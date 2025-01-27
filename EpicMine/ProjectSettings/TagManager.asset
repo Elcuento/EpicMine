@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UiCamera
+  - Exploder
+  - UseObject
+  - InventoryButton
+  - AttackPoint
+  - WindowFlyingIconsItem
+  - HorizontalAttackLine
+  - PlayerHealthBar
+  - PlayerEnergyBar
+  - IgnoreFade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - MinePickaxe
+  - MineTorch
+  - MineAttackLinesAndPoints
+  - TutorialHighlight
+  - Hand
+  - Torch
+  - FlyingTorch
+  - AttackPointAreaCollider
+  - MonstersEye
+  - Video
+  - PickaxeBlink
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UnderWindows
+    uniqueID: 2624757971
+    locked: 0
+  - name: Windows
+    uniqueID: 1374328553
+    locked: 0
+  - name: Tutorial
+    uniqueID: 3660905445
+    locked: 0
+  - name: AboveWindows
+    uniqueID: 380598279
+    locked: 0
+  - name: System
+    uniqueID: 794861329
+    locked: 0

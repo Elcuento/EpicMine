@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: aerostat_Data
+  m_EditorClassIdentifier: 
+  dataName: Aerostat
+  dragonBonesJSON: {fileID: 4900000, guid: 9f7061841660241409ded4a3bac445e4, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 9011b207fa8fb5544b524094e7a5769a, type: 3}
+    texture: {fileID: 2800000, guid: e037ee318a314e5488e88ca3dc67714c, type: 3}
+    material: {fileID: 2100000, guid: 6143bd86c169e6d468cc376fc87b800c, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 83b35f015d208f448876da67b3425b28, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: Ghost_3_Data
+  m_EditorClassIdentifier: 
+  dataName: Ghost_3
+  dragonBonesJSON: {fileID: 4900000, guid: 9ff87162afba8814d8767acfe81ac10b, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: a25c9c86fc1b45c4bbcbcfcbff2b3f2d, type: 3}
+    texture: {fileID: 2800000, guid: 926ddf0bfc6c025478f50a05bdf7cdd2, type: 3}
+    material: {fileID: 2100000, guid: cfcc0c2dc38905f43b80290b99b16b36, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 45c846fd07a4ac94b8ae2abfb4cbc83b, type: 2}

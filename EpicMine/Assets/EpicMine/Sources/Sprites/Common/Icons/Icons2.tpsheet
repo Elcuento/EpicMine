@@ -1,0 +1,48 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f42b01d60a2ec82a31db9400fe88c63f:33eefc3d586ea4f54b5a63c133243cee:165da4ac5eb2e4717f93d31598a651b3$
+#
+:format=40300
+:texture=Icons2.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+ArrowGrey;202;144;78;66; 0.5;0.5; 0;0;0;0
+AutoMiner;465;382;16;14; 0.5;0.5; 0;0;0;0
+Blacksmith;0;13;84;90; 0.5;0.5; 0;0;0;0
+Burglar;318;288;102;78; 0.5;0.5; 0;0;0;0
+chatIcon;481;368;14;12; 0.5;0.5; 0;0;0;0
+cloud;465;398;20;18; 0.5;0.5; 0;0;0;0
+DefaultRatingIcon;497;367;13;13; 0.5;0.5; 0;0;0;0
+DragonLight;487;400;16;16; 0.5;0.5; 0;0;0;0
+DragonLightGrey;487;382;16;16; 0.5;0.5; 0;0;0;0
+Facebook;319;368;144;144; 0.5;0.5; 0;0;0;0
+Flag;86;41;62;62; 0.5;0.5; 0;0;0;0
+Google;0;383;317;129; 0.5;0.5; 0;0;0;0
+Inventory;422;255;90;96; 0.5;0.5; 0;0;0;0
+Light;225;212;90;90; 0.5;0.5; 0;0;0;0
+Mine;0;197;102;84; 0.5;0.5; 0;0;0;0
+NewbieRatingIcon;481;353;13;13; 0.5;0.5; 0;0;0;0
+PvP;113;271;110;110; 0.5;0.5; 0;0;0;0
+PvpRatingIcon;500;450;11;10; 0.5;0.5; 0;0;0;0
+QuestCompleteIcon;500;475;12;15; 0.5;0.5; 0;0;0;0
+QuestIconHalloween;500;438;11;10; 0.5;0.5; 0;0;0;0
+QuestIconWinter;500;462;11;11; 0.5;0.5; 0;0;0;0
+Question3;150;135;48;48; 0.5;0.5; 0;0;0;0
+QuestStartIcon;502;497;6;15; 0.5;0.5; 0;0;0;0
+Recipe;465;363;14;17; 0.5;0.5; 0;0;0;0
+RoyalGiftIcon;0;283;111;98; 0.5;0.5; 0;0;0;0
+Shop;0;105;90;90; 0.5;0.5; 0;0;0;0
+SimpleGiftIcon;225;304;91;77; 0.5;0.5; 0;0;0;0
+SkullRed;465;455;33;35; 0.5;0.5; 0;0;0;0
+SkullYellow;465;418;33;35; 0.5;0.5; 0;0;0;0
+Tasks;317;196;96;90; 0.5;0.5; 0;0;0;0
+Triangle2;465;492;35;20; 0.5;0.5; 0;0;0;0
+Video2;282;140;60;54; 0.5;0.5; 0;0;0;0
+WorkshopActive;415;169;96;84; 0.5;0.5; 0;0;0;0
+WorkshopNoActive;104;185;96;84; 0.5;0.5; 0;0;0;0

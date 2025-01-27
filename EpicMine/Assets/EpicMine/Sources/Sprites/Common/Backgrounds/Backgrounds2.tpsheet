@@ -1,0 +1,51 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:fc6d2415b79008ca721b5c27f5fe2b40:ddac7315475ca248570061d0389bd283:3b90a2cf5a29b82c507ae1160b42f42b$
+#
+:format=40300
+:texture=Backgrounds2.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+Background80;288;426;178;86; 0.5;0.5; 0;0;0;0
+Background81;89;59;30;30; 0.5;0.5; 0;0;0;0
+Background82;177;142;71;66; 0.5;0.5; 0;0;0;0
+Background83;89;27;30;30; 0.5;0.5; 0;0;0;0
+Background84;0;6;30;83; 0.5;0.5; 0;0;0;0
+Background85;240;110;24;30; 0.5;0.5; 0;0;0;0
+Background86;214;40;24;30; 0.5;0.5; 0;0;0;0
+Background87;121;53;18;36; 0.5;0.5; 0;0;0;0
+Background88;188;8;24;132; 0.5;0.5; 0;0;0;0
+Background89;186;210;32;80; 0.5;0.5; 0;0;0;0
+Background90;0;456;286;56; 0.5;0.5; 0;0;0;0
+Background91;186;292;36;18; 0.5;0.5; 0;0;0;0
+Background92;420;269;89;141; 0.5;0.5; 0;0;0;0
+Background94;186;312;36;36; 0.5;0.5; 0;0;0;0
+Background95;214;72;30;30; 0.5;0.5; 0;0;0;0
+Background96;144;131;31;136; 0.5;0.5; 0;0;0;0
+Background97;220;231;30;36; 0.5;0.5; 0;0;0;0
+Background98;224;272;57;113; 0.5;0.5; 0;0;0;0
+Background99;62;272;122;113; 0.5;0.5; 0;0;0;0
+Background100;0;388;229;66; 0.5;0.5; 0;0;0;0
+Background102;86;91;56;176; 0.5;0.5; 0;0;0;0
+Background103;0;91;84;176; 0.5;0.5; 0;0;0;0
+Background104;0;338;58;48; 0.5;0.5; 0;0;0;0
+Background105;186;350;36;36; 0.5;0.5; 0;0;0;0
+Background106;144;20;20;109; 0.5;0.5; 0;0;0;0
+Background107;468;474;38;38; 0.5;0.5; 0;0;0;0
+Background108;468;412;36;60; 0.5;0.5; 0;0;0;0
+Background110;166;20;20;109; 0.5;0.5; 0;0;0;0
+Background111;231;387;55;67; 0.5;0.5; 0;0;0;0
+Background112;32;22;55;67; 0.5;0.5; 0;0;0;0
+Background113;288;332;130;92; 0.5;0.5; 0;0;0;0
+Background114;214;104;24;36; 0.5;0.5; 0;0;0;0
+WhiBackgroundSmall;506;467;5;5; 0.5;0.5; 0;0;0;0
+WhiBackgroundSmall2;506;460;5;5; 0.5;0.5; 0;0;0;0
+WhiteBackground;0;270;60;60; 0.5;0.5; 0;0;0;0
+WhiteGradient;62;269;107;1; 0.5;0.5; 0;0;0;0
+WhiteSquare;508;511;1;1; 0.5;0.5; 0;0;0;0

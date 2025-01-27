@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acd351a7fa3e67241a1add13417172d4, type: 3}
+  m_Name: FileDatas
+  m_EditorClassIdentifier: 
+  FieldData: {fileID: 4900000, guid: 2103719c3f10dac4c8711deebf1f16c3, type: 3}
+  BlockedNames: {fileID: 4900000, guid: f6ba557856caf1c4e9a9b4d746730841, type: 3}
+  RussianInBuildLocalization: {fileID: 4900000, guid: 91e06b7d71f473442a9ddb987f79bb81,
+    type: 3}
+  EnglishInBuildLocalization: {fileID: 4900000, guid: 242579d685962d14f9311353ef840a90,
+    type: 3}
+  FirebaseAndroidLive: {fileID: 4900000, guid: 5c88c3c251d64fc45a83d2a9d3a80f99, type: 3}
+  FirebaseAndroidDev: {fileID: 4900000, guid: 276bfcc84d3255442a9ff552074c8f37, type: 3}
+  FirebaseIosLive: {fileID: 4900000, guid: 5c88c3c251d64fc45a83d2a9d3a80f99, type: 3}
+  FirebaseIosDev: {fileID: 4900000, guid: 276bfcc84d3255442a9ff552074c8f37, type: 3}

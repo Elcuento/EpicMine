@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 34dec3fc46f288742861b6da02285acb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Anvil
+  - first:
+      213: 21300002
+    second: Arrow
+  - first:
+      213: 21300004
+    second: Blacksmith
+  - first:
+      213: 21300006
+    second: BlacksmithBuilding
+  - first:
+      213: 21300008
+    second: Burglar
+  - first:
+      213: 21300010
+    second: BurglarBack
+  - first:
+      213: 21300012
+    second: BurglarBack2
+  - first:
+      213: 21300014
+    second: BurglarFront
+  - first:
+      213: 21300016
+    second: ChestBreakingPannel1
+  - first:
+      213: 21300018
+    second: ChestBreakingPannle2
+  - first:
+      213: 21300020
+    second: Cloud1
+  - first:
+      213: 21300022
+    second: Cloud2
+  - first:
+      213: 21300024
+    second: GodChest
+  - first:
+      213: 21300026
+    second: Grass1
+  - first:
+      213: 21300028
+    second: Grass2
+  - first:
+      213: 21300030
+    second: Ground2
+  - first:
+      213: 21300032
+    second: Mine
+  - first:
+      213: 21300034
+    second: Mountain
+  - first:
+      213: 21300036
+    second: MountainsBack1
+  - first:
+      213: 21300038
+    second: MountainsBack2
+  - first:
+      213: 21300040
+    second: MountainsFront
+  - first:
+      213: 21300042
+    second: PlaceForChest
+  - first:
+      213: 21300044
+    second: RoyalChest
+  - first:
+      213: 21300046
+    second: RoyalGift
+  - first:
+      213: 21300048
+    second: RoyalGiftIcon
+  - first:
+      213: 21300050
+    second: Seller
+  - first:
+      213: 21300052
+    second: Shop
+  - first:
+      213: 21300054
+    second: SimpleChest
+  - first:
+      213: 21300056
+    second: SimpleGift
+  - first:
+      213: 21300058
+    second: SimpleGiftIcon
+  - first:
+      213: 21300060
+    second: Sky
+  - first:
+      213: 21300062
+    second: Stones1
+  - first:
+      213: 21300064
+    second: Stones2
+  - first:
+      213: 21300066
+    second: Tasks
+  - first:
+      213: 21300068
+    second: Triangle
+  - first:
+      213: 21300070
+    second: Ground
+  - first:
+      213: 21300072
+    second: ArrowWhite
+  - first:
+      213: 21300074
+    second: BlacksmithIcon
+  - first:
+      213: 21300076
+    second: BurglarIcon
+  - first:
+      213: 21300078
+    second: InventoryIcon
+  - first:
+      213: 21300080
+    second: MineIcon
+  - first:
+      213: 21300082
+    second: ShopIcon
+  - first:
+      213: 21300084
+    second: TasksIcon
+  - first:
+      213: 21300086
+    second: WorkshopIcon
+  - first:
+      213: 21300088
+    second: Fence
+  - first:
+      213: 21300090
+    second: Tree1
+  - first:
+      213: 21300092
+    second: Tree3
+  - first:
+      213: 21300094
+    second: Tree4
+  - first:
+      213: 21300096
+    second: Tree5
+  - first:
+      213: -5562998810516014275
+    second: Vilalge_banner
+  - first:
+      213: 2060242415135759092
+    second: Vilalge_banner_pin
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlacksmithBuilding
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1124
+        width: 562
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurglarBack2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 866
+        width: 392
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurglarFront
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1723
+        width: 217
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 55
+        width: 437
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 113
+        width: 479
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1823
+        width: 665
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodChest
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1353
+        width: 167
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 11
+        width: 362
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1474
+        width: 1215
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1494
+        width: 596
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MountainsFront
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1917
+        width: 1920
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceForChest
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1594
+        width: 172
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoyalChest
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1986
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 421
+        width: 559
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 495
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree3
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 834
+        width: 573
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853
+        width: 429
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 171
+        width: 507
+        height: 661
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vilalge_banner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 508
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bb54d4e024cc2b0800000000000000
+      internalID: -5562998810516014275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vilalge_banner_pin
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 2031
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1c599f83779c10800000000000000
+      internalID: 2060242415135759092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9746fe2747e90142a3d03dbb04d4526
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tree3: 21300092
+      RoyalChest: 21300044
+      Tree4: 21300094
+      Mountain: 21300034
+      MountainsFront: 21300040
+      BurglarFront: 21300014
+      Vilalge_banner: -5562998810516014275
+      Cloud2: 21300022
+      Tree5: 21300096
+      GodChest: 21300024
+      Vilalge_banner_pin: 2060242415135759092
+      Cloud1: 21300020
+      Tree1: 21300090
+      Shop: 21300052
+      BurglarBack2: 21300012
+      Fence: 21300088
+      PlaceForChest: 21300042
+      BlacksmithBuilding: 21300006
+      Mine: 21300032
+      Grass2: 21300028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
